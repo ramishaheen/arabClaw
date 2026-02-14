@@ -1,4 +1,4 @@
-🦾 ArabClaw — Intelligent Swarm Agent System
+🦾 ArabClaw — Intelligent Swarm Agent System  https://arabclaw.quantum-minds.tech/
 
 ArabClaw is the first open-source project for Swarm Intelligence Agents that power and “beat” the ClawBot — an autonomous intelligent agent platform built with distributed AI decision-making.
 
